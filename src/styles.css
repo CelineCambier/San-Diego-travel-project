@@ -22,6 +22,10 @@ body {
     display: block;
 }
 
+.img-buildings {
+    border-radius: 5px;
+}
+
 .grid-2-columns {
     grid-template-columns: 1fr 1fr;
 }
@@ -69,6 +73,7 @@ body {
     padding: 16px;
     background-color: #2c57b3;
     text-decoration: none;
+    border-radius: 5px;
 }
 
 section {
@@ -173,6 +178,10 @@ main p {
     line-height: 1.5;
     color: #272044;
     opacity: 0.7;
+}
+
+.photo-gallery {
+    border: 5px solid #2c57b3;
 }
 
 footer {
